@@ -1,0 +1,24 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    margin: 20px auto;
+    width: 60%;
+}
+
+.ad-wrapper {
+    display: none;
+    text-align: center;
+}
+
+.ad-wrapper:before {
+    position: relative;
+    bottom: 17px;
+    left: 18px;
+    font-size: 8px;
+    content: "ad";
+    text-transform: uppercase;
+}
+
+a {
+    padding: 10px;
+}
