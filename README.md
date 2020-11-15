@@ -1,6 +1,6 @@
 # Article with ads
 
-https://wsromek.github.io/cloudinary-ads-frontend/index.html
+https://wsromek.github.io/cloudinary-ads-frontend
 
 ## About
 
